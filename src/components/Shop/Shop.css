@@ -1,4 +1,4 @@
-.Shop-container {
+.twin-container {
     display: flex;
 }
 .product-container {
@@ -8,5 +8,5 @@
       border-right: 1px solid lightgray;
 }
 .cart-container {
-
+    
 }
